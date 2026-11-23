@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Annamel">
+  <rect width="64" height="64" rx="10" fill="#164C43"/>
+  <path d="M32 15.5 44.5 48h-5.9l-2.6-7.2H28l-2.6 7.2h-5.9L32 15.5Zm0 9.4-3.2 9.1h6.4L32 24.9Z" fill="#F8F5EF"/>
+  <circle cx="32" cy="54.5" r="1.9" fill="#B9A16B"/>
+</svg>

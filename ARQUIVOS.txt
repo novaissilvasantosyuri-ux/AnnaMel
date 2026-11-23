@@ -1,0 +1,43 @@
+ANNAMEL · inventário de arquivos para publicação
+Confira se TODAS as 25 fotografias chegaram ao repositório antes de considerar publicado.
+Formato: bytes · md5(curto)/md5(curto) · caminho
+
+     8286  0a3534e0  DEPLOY-VERCEL.md
+     7962  9fe1126a  README.md
+    44896  f18f854b  assets/css/styles.css
+      322  79e40cab  assets/favicon.svg
+    39304  b0fa095e  assets/fonts/cormorant-italic-var.woff2
+    37776  ec4225ec  assets/fonts/cormorant-var.woff2
+    24436  b222d83c  assets/fonts/manrope-var.woff2
+   250450  a34fda55  assets/img/bolo-1.jpg
+   127199  411ddf4b  assets/img/bolo-2.jpg
+   164552  b747929f  assets/img/c-bolo1-flowers.jpg
+    97847  5bf9eaf5  assets/img/c-bolo2-detail.jpg
+   184363  f52a6fd4  assets/img/c-g2-sweets.jpg
+   128009  d7ac68bb  assets/img/c-g4-detail.jpg
+   136072  594e2f5d  assets/img/c-g5-macro.jpg
+   184826  b56ca707  assets/img/c-g6-detail.jpg
+    87211  af30b496  assets/img/c-ig1.jpg
+    80168  8149b589  assets/img/c-ig2.jpg
+   115329  ef49a4a2  assets/img/c-ig3.jpg
+   118826  4af2f21a  assets/img/c-ig4.jpg
+   112673  46ff75b5  assets/img/c-ig5.jpg
+   141905  678bae21  assets/img/c-ig6.jpg
+   180700  60224a17  assets/img/c-intro-hands.jpg
+   167462  163ae035  assets/img/c-texture.jpg
+   147246  b18a53aa  assets/img/doces-1.jpg
+   126586  7cbf46df  assets/img/g1.jpg
+   306671  7bdbf88a  assets/img/g2.jpg
+   162745  e69f061e  assets/img/g3.jpg
+   162506  97943b30  assets/img/g4.jpg
+   222922  8bb06483  assets/img/g5.jpg
+   186160  5f8cea6e  assets/img/g6.jpg
+   196375  de615771  assets/img/hero.jpg
+   238286  6720739f  assets/img/intro.jpg
+     2871  5f694134  assets/js/config.js
+    12756  9cc19ec8  assets/js/main.js
+    44056  d1ce277b  index.html
+      135  5818c1e5  robots.txt
+      313  94132210  vercel.json
+
+Total: 37 arquivos · 4.05 MB
