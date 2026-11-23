@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Projeto demonstrativo — Annamel Bolos e Doces Artesanais
+# Experiência digital criada pelo Auvora Studios
